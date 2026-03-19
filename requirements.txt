@@ -4,6 +4,6 @@ python-dotenv
 openai
 requests
 python-multipart
-magnum
+mangum
 aiofiles
 groq
