@@ -5,3 +5,5 @@ openai
 requests
 python-multipart
 magnum
+aiofiles
+groq
