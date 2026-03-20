@@ -47,12 +47,5 @@ An AI-powered platform that helps users improve their communication skills, prep
 4. Response is converted to voice (TTS)  
 5. Output is displayed as text and audio  
 
----
 
-## 🛠️ Setup Instructions
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
