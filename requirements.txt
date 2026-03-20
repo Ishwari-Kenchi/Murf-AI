@@ -1,2 +1,9 @@
 fastapi
+uvicorn
+python-dotenv
+openai
+requests
+python-multipart
 mangum
+aiofiles
+groq
